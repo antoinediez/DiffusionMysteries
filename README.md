@@ -18,11 +18,18 @@ The two notebooks `hardspheres.ipynb` and `hardspheres_twopopulations.ipynb` sho
 
 Example videos are shown below. 
 
+https://github.com/antoinediez/DiffusionMysteries/assets/70896255/15e3c8e3-aa48-44f1-b892-6589db8d2378
+
+https://github.com/antoinediez/DiffusionMysteries/assets/70896255/2f94cb2e-be87-4195-8111-1100f707c9db
+
+
 ### Lattice motion in 2D
 
 A simplified system consists in a random walk on a lattice: in the 2D case, a particle is allowed to move to one of the four neighbouring positions (up, down, left, right) with equal probability at some random times. After zooming out and accelerating time, the motion of the particle resembles a Brownian motion. 
 
 An example video produced by the notebook `dim2.ipynb` is shown below. 
+
+https://github.com/antoinediez/DiffusionMysteries/assets/70896255/cc0ff987-50d5-4845-a1d3-98bc64f7f97c
 
 
 ### Lattice motion in 1D
@@ -31,11 +38,17 @@ In a 1D lattice system, particles can move either on the left or on the right (w
 
 Example videos produced by the notebook `dim1.ipynb` and `dim1_twopopulations.ipynb` are shown below. 
 
+https://github.com/antoinediez/DiffusionMysteries/assets/70896255/c2c1f24e-1faa-49e4-a61b-884d0ba453ba
+
+
 ### Turing patterns 
 
 At the continuum level, diffusion can be coupled with "chemical" reactions to form a so-called [reaction-diffusion system](https://en.wikipedia.org/wiki/Reaction%E2%80%93diffusion_system). Since the pioneering work of [Turing](https://en.wikipedia.org/wiki/Turing_pattern), it is known that diffusion can be the source of instabilities leading to patterns such as stripes and spots commonly observed in nature. 
 
 An example of reaction-diffusion system is the so-called Schnakenberg system. Spots and stripes are produced when the diffusion is high enough but disappear when the diffusion vanishes, as shown in the video below produced by the script `RD_solver.jl`. 
+
+https://github.com/antoinediez/DiffusionMysteries/assets/70896255/360d615c-d5dc-450f-ad1c-03b859e0af1b
+
 
 ## Licence
 
